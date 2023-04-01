@@ -1,13 +1,13 @@
 function generate_Random_Passport_Code() {
     
     // Масив випадкових літер
-    let letter_array = [ '\u0413', // Г
-                         '\u0414', // Д
+    let letter_array = [ '\u0413', // f
+                         '\u0414', // k
                          '\u0417', // З
                          '\u041A', // К
                          '\u041B', // Л
                          '\u041D', // Н
-                         '\u0420'  // Р
+                         '\u0420'  // e
                        ];
     
     // Готовий результат
