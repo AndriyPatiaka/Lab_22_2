@@ -1,0 +1,19 @@
+{
+  "name": "myproject_22_2",
+  "version": "1.0.0",
+  "description": ">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriyPatiaka/lab_22_22.git"
+  },
+  "author": "Andriy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndriyPatiaka/lab_22_22/issues"
+  },
+  "homepage": "https://github.com/AndriyPatiaka/lab_22_22#readme"
+}
